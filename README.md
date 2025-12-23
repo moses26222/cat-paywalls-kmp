@@ -83,6 +83,7 @@ You can build this project with the few steps below:
 - 100% [Compose Multiplatform](https://www.jetbrains.com/lp/compose-multiplatform/) based + [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous.
 - [RevenueCat SDK for KMP](https://github.com/RevenueCat/purchases-kmp): RevenueCat allows you to implement in-app subscriptions, dynamic paywalls, actionable analytics, and plug-and-play experimentation tools across Android and iOS.
 - [Ktor](https://ktor.io/): Kotlin-first HTTP client for networking with platform-specific engines (OkHttp for Android, Darwin for iOS).
+- [Metro](https://github.com/ZacSweers/metro): A compile-time dependency injection library for Kotlin Multiplatform, powered by KSP.
 - [Landscapist Coil3](https://github.com/skydoves/landscapist): Image loading library for Compose Multiplatform with placeholder support.
 - [Navigation Compose](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-navigation-routing.html): JetBrains' Navigation library for Compose Multiplatform.
 - [JetBrains Lifecycle ViewModel](https://www.jetbrains.com/help/kotlin-multiplatform-dev/compose-viewmodel.html): ViewModel support for Compose Multiplatform with lifecycle awareness.
