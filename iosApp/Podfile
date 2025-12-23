@@ -1,0 +1,21 @@
+platform :ios, '15.0'
+
+target 'iosApp' do
+  use_frameworks!
+
+  pod 'RevenueCat', '~> 5.21'
+  pod 'RevenueCatUI', '~> 5.21'
+  pod 'PurchasesHybridCommon', '~> 17.11'
+  pod 'PurchasesHybridCommonUI', '~> 17.11'
+
+  # KMP framework from Gradle
+  pod 'composeApp', :path => '../composeApp'
+end
+
+post_install do |installer|
+  installer.pods_project.targets.each do |target|
+    target.build_configurations.each do |config|
+      config.build_settings['IPHONEOS_DEPLOYMENT_TARGET'] = '15.0'
+    end
+  end
+end
