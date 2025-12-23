@@ -57,8 +57,7 @@ class SubscriptionManagementViewModel(repository: PaywallsRepository) : ViewMode
 sealed interface SubscriptionManagementUiState {
   data object Loading : SubscriptionManagementUiState
 
-  data class Success(val offering: Offering, val customerInfo: CustomerInfo) :
-    SubscriptionManagementUiState
+  data class Success(val offering: Offering, val customerInfo: CustomerInfo) : SubscriptionManagementUiState
 
   data class Error(val message: String) : SubscriptionManagementUiState
 }
